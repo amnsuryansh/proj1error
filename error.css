@@ -1,0 +1,102 @@
+body {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 17px;
+  letter-spacing: 0em;
+}
+.head-body {
+  position: absolute;
+  padding-bottom: 5rem;
+  font-family: Inconsolata;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 25px;
+  letter-spacing: -0.08em;
+  text-transform: uppercase;
+
+  color: #333333;
+  text-align: start;
+}
+
+.button {
+  font-family: Space Mono;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+
+  letter-spacing: -0.035em;
+  text-transform: uppercase;
+  padding: 2rem 2rem;
+  background-color: gray;
+  margin-left: 52rem;
+  margin-top: 2rem;
+}
+.para {
+  font-family: Space Mono;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: -0.035em;
+
+  /* Gray 2 */
+
+  color: #4f4f4f;
+  text-align: end;
+}
+
+.extend {
+  padding: 10rem;
+}
+.extend-two {
+  padding: 2rem;
+}
+.footer {
+  position: absolute;
+  width: 287px;
+  height: 17px;
+  left: 577px;
+  top: 1039px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #bdbdbd;
+}
+.footer-link {
+  color: black;
+  font-weight: bold;
+}
+.hero-img {
+  position: absolute;
+  padding-top: 5rem;
+  margin: 0rem 50rem 10rem 2rem;
+  width: 40vw;
+  height: 50%;
+}
+h1 {
+  text-align: end;
+  padding-right: 5rem;
+  padding-top: 5rem;
+
+  font-family: Space Mono;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 95px;
+  letter-spacing: -0.035em;
+
+  /* Gray 1 */
+
+  color: #333333;
+}
